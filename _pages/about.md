@@ -16,22 +16,10 @@ Research Interests
 * Interacting systems
 * Financial network and systemic risk 
 
-Nes
+Publications
 ======
-* 10/2023: One paper on earnings call analysis got accepted to ACM ICAIF'23.
-* 08/2023: Invited as a PC member for AAAI'24.
-* 08/2023: Joined HKUST as an assistant professor in FinTech Thrust.</span>
-* 08/2022: Invited as a PC member for AAAI'23.
-* 08/2022: One paper on product representation learning got accepted to IEEE TKDE.
-* 04/2022: Served as a session chair at INFORMS 2022. 
-* 12/2021: One paper on KG reasoning got accepted to AAAI’22 (15% acceptance rate). 
-* 05/2021: Two papers got accepted to KDD’21. 
-* 03/2021: Passed my dissertation proposal defense, pleased to be Ph.D. candidate now! 
-* 06/2021: Joined IBM Watson Research Lab as a research intern. 
-* 01/2021: One paper accepted to WWW’21. 
-* 12/2020: Joined RavenPack as a data scientist intern. 
-* 12/2020: One paper accepted to AAAI’21. 
-* 04/2020: One paper accepted to SIGIR'21. 
+*Peer-reviewed journals 
+   * 
 
 
 Education 
