@@ -86,9 +86,9 @@ author:
   location         : "Shanghai, CN"
   employer         :  
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=lxrXMY0AAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : "zc3151@nyu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
