@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixuan Yuan"
+title                    : "Zhongyuan Cao"
 title_separator          : "-"
-name                     : &name "Zixuan Yuan"
-description              : &description "Assistant Professor at FinTech Thrust, HKUST (GZ)"
+name                     : &name "Zhongyuan Cao"
+description              : &description "Postdoc at NYU shanghai"
 url                      : "https://yuanzx33033.github.io/zixuan/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
