@@ -7,11 +7,16 @@
    - /about.html
 ---
 
-I am a Postdoc at the department of Mathematics, NYU Shanghai, where I work with Prof. [Mathieu Laurière](https://mlauriere.github.io/). Before joining NYU Shanghai, I obtained my master degree from Sorbonne Université (Paris VI) and completed Ph.D study at INRIA Paris and Université Paris Dauphine (Paris IX), under the supervision of Prof. [Agnès Sulem](https://www.rocq.inria.fr/mathfi/Sulem.html) and Prof. [Hamed Amini](https://aminiha.github.io/). I am trying to understand mean field games and controls with complex structures.   
+I am a Postdoc at the department of mathematics, NYU Shanghai, where I work with Prof. [Mathieu Laurière](https://mlauriere.github.io/). Before joining NYU Shanghai, I obtained the master degree in mathematics from Sorbonne Université (Paris VI) and completed my Ph.D study at INRIA Paris and Université Paris Dauphine (Paris IX), under the supervision of Prof. [Agnès Sulem](https://www.rocq.inria.fr/mathfi/Sulem.html) and Prof. [Hamed Amini](https://aminiha.github.io/). Recently, I am interested in different kinds of mean field games and mean field control problems with complex structures, and trying to understand their depth.   
 
-{\bf News } ss
+Research Interests
+==
+* Mean field games
+* Stochastic controls
+* Interacting systems
+* Financial network and systemic risk 
 
-News
+Nes
 ======
 * 10/2023: One paper on earnings call analysis got accepted to ACM ICAIF'23.
 * 08/2023: Invited as a PC member for AAAI'24.
