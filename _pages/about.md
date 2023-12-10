@@ -7,9 +7,9 @@
    - /about.html
 ---
 
-I am a Postdoc at the department of Mathematics, NYU Shanghai, where I work with Prof. [Mathieu Laurière](https://mlauriere.github.io/) He received his Ph.D. in Management (Information Technology track) from Rutgers University. His research interests lie in the general area of urban computing and financial applications, particularly in spatiotemporal analysis, meta learning, self-supervised learning, knowledge graphs, and probabilistic graphical models, as well as their applications in POI recommendation, quantitative trading, event-driven investing, and knowledge graph reasoning. He has research experience in multiple industrial research labs, such as IBM Research, Baidu Research, and RavenPack. He has published in refereed journals and conference proceedings, such as IEEE TKDE, IEEE IOTJ, ACM SIGKDD, SIGIR, WWW, and AAAI. 
+I am a Postdoc at the department of Mathematics, NYU Shanghai, where I work with Prof. [Mathieu Laurière](https://mlauriere.github.io/). Before joining NYU Shanghai, I obtained my master degree from Sorbonne Université (Paris VI) and completed Ph.D study at INRIA Paris and Université Paris Dauphine (Paris IX), under the supervision of Prof. [Agnès Sulem](https://www.rocq.inria.fr/mathfi/Sulem.html) and Prof. [Hamed Amini](https://aminiha.github.io/). I am trying to understand mean field games and controls with complex structures.   
 
-<span style="color:red">**Multiple positions are available for self-motivated Ph.D. students and RAs. Visiting students are also welcome. Please check [here](https://yuanzx33033.github.io/zixuan/prospective/) for more information. Thanks! **</span>
+{\bf News } ss
 
 News
 ======
