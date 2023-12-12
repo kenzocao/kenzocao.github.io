@@ -27,8 +27,8 @@ Publications
 Denghui Zhang,  <ins>**Zixuan Yuan**</ins>, Yanchi Liu, Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong.
 
 **6.Stochastic graphon mean field games with
-jumps and approximate nash equilibria**. With Hamed Amini and Agnès Sulem, 2023, Submitted. [<a href='https://ssrn.com/
-abstract=4412999'a>]
+jumps and approximate nash equilibria**. With Hamed Amini and Agnès Sulem, 2023, Submitted. [PDF](https://ssrn.com/
+abstract=4412999)
 
 Education 
 ======
