@@ -1,5 +1,5 @@
 ---
-permalink: /Talks/
+permalink: /prospective/
 title: "Talks"
 author_profile: true
 redirect_from:
