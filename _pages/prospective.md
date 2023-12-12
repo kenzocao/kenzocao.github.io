@@ -1,11 +1,11 @@
 ---
-permalink: /prospective/
+permalink: /Talks/
 title: "Talks"
 author_profile: true
 redirect_from:
-  - /prospective/
   - /prospective.html
 ---
+
 
 
   1.**Limit Theorems for Default Contagion and Systemic Risk**, <em> INRIA Junior Seminar</em>, Paris, Sep 2021.
