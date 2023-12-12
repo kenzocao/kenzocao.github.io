@@ -12,14 +12,14 @@ I am a Postdoc at the department of mathematics, NYU Shanghai, where I work with
 Research Interests
 ==
 * Mean field games
-* Stochastic controls
 * Interacting systems
 * Financial network and systemic risk 
+* Stochastic controls
+
+
 
 Publications
-======
-*Peer-reviewed journals 
-   * 
+====== 
 ## In Progress
 ----------
 **7.Learning extended graphon mean field games**. With Hamed Amini, Gökçe Dayanikli, Mathieu Laurière, Agnès Sulem and Kexin Shao.
@@ -30,8 +30,7 @@ Publications
 **6.Stochastic graphon mean field games with
 jumps and approximate nash equilibria**. With Hamed Amini and Agnès Sulem, 2023, Submitted. [PDF](https://ssrn.com/abstract=4412999)
 
-**5.Ruin probabilities for risk processes in stochastic networks**. With Hamed Amini, Andreea Minca and Agnès Sulem, 2023, submitted. [PDF](https://ssrn.com/
-abstract=4355988)
+**5.Ruin probabilities for risk processes in stochastic networks**. With Hamed Amini, Andreea Minca and Agnès Sulem, 2023, submitted. [PDF](https://ssrn.com/abstract=4355988)
 
 **4.Graphon mean-field backward stochastic differential equations with jumps and associated dynamic risk measures**. With Hamed Amini and Agnès Sulem, 2022, Submitted. 2022. [PDF](https://ssrn.com/abstract=4162616)
 
