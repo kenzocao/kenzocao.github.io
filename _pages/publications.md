@@ -7,8 +7,6 @@ redirect_from:
 ---
 
 
-Publications
-====== 
 ## In Progress
 ----------
 **7.Learning extended graphon mean field games**. With Hamed Amini, Gökçe Dayanikli, Mathieu Laurière, Agnès Sulem and Kexin Shao.
