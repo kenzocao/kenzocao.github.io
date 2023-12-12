@@ -31,4 +31,3 @@ jumps and approximate nash equilibria**. With Hamed Amini and Agnès Sulem, 2023
 ----------
 **1.The Default Cascade Process in Stochastic Financial Networks**. With Hamed Amini and Agnès Sulem. <em>ICAIF '23</em>: Proceedings of the Fourth ACM International Conference on AI in Finance. [PDF](https://doi.org/10.1145/3604237.3626845) 
 
-Education 
