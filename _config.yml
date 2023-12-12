@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhongyuan (Kenzo) Cao"
 title_separator          : "-"
-name                     : &name "Zhongyuan Cao"
+name                     : &name "Zhongyuan Cao (曹中原)"
 description              : &description "Postdoc at NYU shanghai"
 url                      : "https://kenzocao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongyuan Cao"
+  name             : "Zhongyuan Cao (曹中原)"
   avatar           : "zhongyuan.jpg"
   bio              : "Postdoc，NYU Shanghai"
   location         : "Shanghai, CN"
