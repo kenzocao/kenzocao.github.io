@@ -27,19 +27,22 @@ Publications
 ## Preprints
 ----------
 
-**6.Stochastic graphon mean field games with
+**5.Stochastic graphon mean field games with
 jumps and approximate nash equilibria**. With Hamed Amini and Agnès Sulem, 2023, Submitted. [PDF](https://ssrn.com/abstract=4412999)
 
-**5.Ruin probabilities for risk processes in stochastic networks**. With Hamed Amini, Andreea Minca and Agnès Sulem, 2023, Submitted. [PDF](https://ssrn.com/abstract=4355988)
+**4.Ruin probabilities for risk processes in stochastic networks**. With Hamed Amini, Andreea Minca and Agnès Sulem, 2023, Submitted. [PDF](https://ssrn.com/abstract=4355988)
 
-**4.Graphon mean-field backward stochastic differential equations with jumps and associated dynamic risk measures**. With Hamed Amini and Agnès Sulem, 2022, Submitted. 2022. [PDF](https://ssrn.com/abstract=4162616)
+**3.Graphon mean-field backward stochastic differential equations with jumps and associated dynamic risk measures**. With Hamed Amini and Agnès Sulem, 2022, Submitted. 2022. [PDF](https://ssrn.com/abstract=4162616)
 
-**3.Fire sales, default cascades and complex financial networks**. With Hamed Amini and Agnès Sulem, 2021, Submitted. [PDF](https://ssrn.com/abstract=3935450)
+**2.Fire sales, default cascades and complex financial networks**. With Hamed Amini and Agnès Sulem, 2021, Submitted. [PDF](https://ssrn.com/abstract=3935450)
 
 ## Published in Journal 
 ----------
-**2.Limit theorems for default contagion and systemic risk**. With Hamed Amini and Agnès Sulem, 2021, to appear in <em>Mathematics of Operations Research</em>, 2021. [PDF](https://ssrn.com/abstract=3811107)
+**1.Limit theorems for default contagion and systemic risk**. With Hamed Amini and Agnès Sulem, 2021, to appear in <em>Mathematics of Operations Research</em>. [PDF](https://ssrn.com/abstract=3811107)
 
+## Conference Proceedings 
+----------
+**1.The Default Cascade Process in Stochastic Financial Networks**. With Hamed Amini and Agnès Sulem. <em>ICAIF '23</em>: Proceedings of the Fourth ACM International Conference on AI in Finance. [PDF](https://doi.org/10.1145/3604237.3626845) 
 
 Education 
 ======
