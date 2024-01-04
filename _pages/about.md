@@ -11,10 +11,10 @@ My name is Zhongyuan Cao (曹中原), postdoc at the department of mathematics, 
 
 Research Interests
 ==
-* Mean field games
-* Interacting systems
-* Financial network and systemic risk 
-* Stochastic controls
+* Mean field games and stochastic controls on large networks
+* Financial networks and systemic risk
+* Graphon mean field Interacting systems
+  
 
 
 Education 
